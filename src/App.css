@@ -1,0 +1,35 @@
+.header{
+    display: block;
+    background: #e9c46a;
+    border-width: 10px;
+    border-radius: 25px;
+    border-style: ridge;
+    border-color: #e76f51;
+    text-align: center; 
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin: 0 auto;
+}
+.title{
+    text-align: center;
+    text-emphasis-color: #2a9d8f;
+}
+.image{
+    height: 350px;
+    width: 350px;
+}
+.section{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #e9edc9;
+    width: 750px;
+    margin: 0 auto;
+
+}
